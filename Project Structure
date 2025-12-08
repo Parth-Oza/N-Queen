@@ -1,0 +1,21 @@
+Project Structure:
+N-Queen/
+├── nqueens.py
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── setup.py
+├── .gitignore
+├── .github/workflows/python-package.yml
+├── examples/
+│   ├── __init__.py
+│   ├── basic_usage.py
+│   ├── visualization.py
+│   └── benchmark.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_backtracking.py
+│   ├── test_genetic.py
+│   └── test_minconflicts.py
+└── notebooks/
+    └── analysis.ipynb
